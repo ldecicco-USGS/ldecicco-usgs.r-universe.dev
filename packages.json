@@ -1,0 +1,10 @@
+[
+    {
+        "package": "dataRetrieval",
+        "url": "https://github.com/USGS-R/dataRetrieval"
+    },
+    {
+        "package": "tinkr",
+        "url": "https://code.usgs.gov/water/EGRET"
+    }
+]
