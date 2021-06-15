@@ -4,7 +4,15 @@
         "url": "https://github.com/USGS-R/dataRetrieval"
     },
     {
-        "package": "tinkr",
+        "package": "EGRET",
         "url": "https://code.usgs.gov/water/EGRET"
+    },
+    {
+        "package": "smwrBase",
+        "url": "https://github.com/USGS-R/smwrBase"
+    },
+    {
+        "package": "RSPARROW",
+        "url": "https://code.usgs.gov/water/stats/rsparrow/-/tree/master/RSPARROW_master"
     }
 ]
