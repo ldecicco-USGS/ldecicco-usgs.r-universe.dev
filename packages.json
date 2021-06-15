@@ -26,5 +26,17 @@
     {
         "package": "smwrQW",
         "url": "https://github.com/USGS-R/smwrQW"
+    },
+    {
+        "package": "rloadest",
+        "url": "https://github.com/USGS-R/rloadest"
+    },
+    {
+        "package": "toxEval",
+        "url": "https://code.usgs.gov/water/toxEval"
+    },
+    {
+        "package": "EGRETci",
+        "url": "https://code.usgs.gov/water/EGRETci"
     }
 ]
