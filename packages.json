@@ -22,13 +22,5 @@
     {
         "package": "smwrStats",
         "url": "https://github.com/USGS-R/smwrStats"
-    },
-    {
-        "package": "smwrQW",
-        "url": "https://github.com/USGS-R/smwrQW"
-    },
-    {
-        "package": "rloadest",
-        "url": "https://github.com/USGS-R/rloadest"
     }
 ]
