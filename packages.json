@@ -29,7 +29,8 @@
     },
     {
         "package": "rloadest",
-        "url": "https://github.com/USGS-R/rloadest"
+        "url": "https://github.com/ldecicco-USGS/rloadest",
+        "branch": "no_vignettes"
     },
     {
         "package": "toxEval",
