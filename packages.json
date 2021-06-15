@@ -39,5 +39,10 @@
     {
         "package": "EGRETci",
         "url": "https://code.usgs.gov/water/EGRETci"
+    },
+    {
+        "package": "RSPARROW",
+        "url": "https://code.usgs.gov/water/stats/rsparrow",
+        "subdir": "RSPARROW_master"
     }
 ]
