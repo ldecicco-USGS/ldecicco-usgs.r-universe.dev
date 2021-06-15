@@ -18,5 +18,9 @@
     {
         "package": "smwrGraphs",
         "url": "https://github.com/USGS-R/smwrGraphs"
+    },
+    {
+        "package": "smwrStats",
+        "url": "https://github.com/USGS-R/smwrStats"
     }
 ]
