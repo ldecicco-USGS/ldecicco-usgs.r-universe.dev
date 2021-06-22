@@ -44,5 +44,9 @@
         "package": "RSPARROW",
         "url": "https://code.usgs.gov/water/stats/rsparrow",
         "subdir": "RSPARROW_master"
+    },
+    {
+        "package": "HASP",
+        "url": "https://code.usgs.gov/water/stats/HASP"
     }
 ]
