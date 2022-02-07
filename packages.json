@@ -55,13 +55,5 @@
     {
       "package": "Rainmaker",
       "url": "https://github.com/USGS-R/Rainmaker"
-    },
-    {
-      "package": "unitted",
-      "url": "https://github.com/appling/unitted"
-    },
-    {
-      "package": "loadflex",
-      "url": "https://github.com/USGS-R/loadflex"
-    }
+    } 
 ]
