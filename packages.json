@@ -41,12 +41,27 @@
         "url": "https://code.usgs.gov/water/EGRETci"
     },
     {
-        "package": "RSPARROW",
-        "url": "https://code.usgs.gov/water/stats/rsparrow",
-        "subdir": "RSPARROW_master"
-    },
-    {
         "package": "HASP",
         "url": "https://code.usgs.gov/water/stats/HASP"
+    },
+    {
+      "package": "USGSHydroTools",
+      "url": "https://github.com/USGS-R/USGSHydroTools"
+    },
+    {
+      "package": "SampleSplitting",
+      "url": "https://github.com/USGS-R/SampleSplitting"
+    },
+    {
+      "package": "Rainmaker",
+      "url": "https://github.com/USGS-R/Rainmaker"
+    },
+    {
+      "package": "unitted",
+      "url": "https://github.com/appling/unitted"
+    },
+    {
+      "package": "loadflex",
+      "url": "https://github.com/USGS-R/loadflex"
     }
 ]
