@@ -55,5 +55,9 @@
     {
       "package": "Rainmaker",
       "url": "https://github.com/USGS-R/Rainmaker"
+    },
+    {
+      "package": "restrend",
+      "url": "https://github.com/USGS-R/restrend"
     } 
 ]
