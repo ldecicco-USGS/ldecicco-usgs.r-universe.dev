@@ -1,7 +1,7 @@
 [
     {
         "package": "dataRetrieval",
-        "url": "https://github.com/USGS/dataRetrieval"
+        "url": "https://github.com/DOI-USGS/dataRetrieval"
     },
     {
         "package": "EGRET",
